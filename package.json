@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muggy Ate",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "languagedetect": "^1.2.0"
+  }
 }
