@@ -1,0 +1,11 @@
+{
+  "name": "translator-js",
+  "version": "0.0.0",
+  "description": "this is a simple tool that takes chinese and hopefully translates it into something reasonable in english using various APIs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muggy Ate",
+  "license": "MIT"
+}
