@@ -9,6 +9,7 @@
   "author": "Muggy Ate",
   "license": "MIT",
   "dependencies": {
-    "languagedetect": "^1.2.0"
+    "languagedetect": "^1.2.0",
+    "php-nlp": "git+https://github.com/agentile/PHP-Stanford-NLP.git"
   }
 }
