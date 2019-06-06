@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "languagedetect": "^1.2.0",
-    "php-nlp": "git+https://github.com/cuzzo/node-stanford-postagger.git"
+    "node-nlp": "^3.1.1"
   }
 }
